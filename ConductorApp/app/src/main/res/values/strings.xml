@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bus Tracking</string>
+    <string name="prompt_email">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="google_maps_api_key">AIzaSyA5zPRLyTGCYrtYzcjQz997qETTtQb1pag</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+    <string name="qr_code">qr_code</string>
+</resources>
